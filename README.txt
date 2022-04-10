@@ -20,7 +20,7 @@ Versão: 16.14.2 LTS
 -- UTILIZAÇÃO:
 
 Para executar o código, ir até o arquivo app.mjs e remover os comentários que executam as funções referentes 
-as questões que se deseja testar. Após isto, executar o seguinte comando no terminal: "node .\app.mjs"
+as questões que se deseja testar. Após isto, executar o seguinte comando no terminal: "node .\lazaro-desafio-engenharia.mjs"
 
 -- ESTRUTURA:
 
