@@ -25,7 +25,7 @@ as questões que se deseja testar. Após isto, executar o seguinte comando no te
 -- ESTRUTURA:
 
 ./questions - pasta que contém os arquivos referentes as questões do desafio;
-./lazaro-desafio-engenharia-Loggi.mjs - arquivo main que chama todas as funções referentes as questões; 
+./lazaro-desafio-engenharia.mjs - arquivo main que chama todas as funções referentes as questões; 
 ./config.mjs - arquivo que contém o objeto barcodes que possui a lista de códigos de barra dados no desafio;
 ./package.mjs - classe pacote com os atributos do código de barras e funções utilizadas ao longo do projeto.
 
